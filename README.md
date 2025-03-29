@@ -47,14 +47,14 @@ intext: This operator allows you to search for pages that contain specific text 
 inurl: This operator allows you to search for pages that contain specific text within the URL. For example, "inurl:admin" would search for pages that contain the word "admin" within the URL.
 ![image](https://github.com/user-attachments/assets/d975fa24-70e2-49f7-92b9-25b735da8c15)
 
-intitle: This operator allows you to search for pages that contain specific text within the title tag. For example, "intitle:index of" would search for pages that contain "index of" within the title tag.
 
 link: This operator allows you to search for pages that link to a specific URL. For example, "link:example.com" would search for pages that link to the example.com domain.
 ![image](https://github.com/user-attachments/assets/316638f2-bc3f-4d26-8f5f-32a19d2de634)
 
 cache: This operator allows you to view the cached version of a page. For example, "cache:example.com" would show the cached version of the example.com website.
 
- 
+ ![image](https://github.com/user-attachments/assets/9726d86c-f258-4027-a69b-11155fc3e796)
+
 #DNS Enumeration
 
 
@@ -102,7 +102,8 @@ telnet <host address> 25 to connect
 and issue appropriate commands
   
  ##Output
-  
+  ![image](https://github.com/user-attachments/assets/f4a36e58-26ee-4619-ad0d-4c7911ed2c1e)
+
   
 
 ## nmap –script smtp-enum-users.nse <hostname>
@@ -111,6 +112,7 @@ The smtp-enum-users.nse script attempts to enumerate the users on a SMTP server 
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/27b3b7be-b0ca-4236-bc74-859f1cabfe98)
 
 
 ## RESULT:
